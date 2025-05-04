@@ -28,10 +28,9 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
----
 
-📍 Based in Canada | 🌐 [Portfolio coming soon...]  
-🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/franck-venance)
+
+
 
 ---
 
