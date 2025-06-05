@@ -1,4 +1,4 @@
-# Hello World! I'm Franck 👋
+# Hello, I'm Franck 👋
 
 📱 I build mobile apps for iOS, Android, and cross-platform using Swift, Kotlin, React Native, and Flutter  
 🧠 Currently diving deeper into Applied Artificial Intelligence at George Brown College  
